@@ -1,0 +1,24 @@
+c:\users\burak\documents\visual studio 2015\Projects\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe.config
+C:\Users\Burak\documents\visual studio 2015\Projects\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Burak\documents\visual studio 2015\Projects\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Login.resources
+C:\Users\Burak\documents\visual studio 2015\Projects\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Properties.Resources.resources
+C:\Users\Burak\documents\visual studio 2015\Projects\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.UyeOl.resources
+C:\Users\Burak\documents\visual studio 2015\Projects\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.GenerateResource.Cache
+C:\Users\Burak\documents\visual studio 2015\Projects\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe
+C:\Users\Burak\documents\visual studio 2015\Projects\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.pdb
+C:\Users\Burak\documents\visual studio 2015\Projects\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe
+C:\Users\Burak\documents\visual studio 2015\Projects\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pdb
+C:\Users\Burak\documents\visual studio 2015\Projects\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Musteri.resources
+C:\Users\Burak\Documents\Visual Studio 2015 - Kopya\Projects\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe.config
+C:\Users\Burak\Documents\Visual Studio 2015 - Kopya\Projects\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe
+C:\Users\Burak\Documents\Visual Studio 2015 - Kopya\Projects\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pdb
+C:\Users\Burak\Documents\Visual Studio 2015 - Kopya - Kopya\Projects\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe.config
+C:\Users\Burak\Documents\Visual Studio 2015 - Kopya - Kopya\Projects\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe
+C:\Users\Burak\Documents\Visual Studio 2015 - Kopya - Kopya\Projects\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pdb
+C:\Users\Burak\Documents\Visual Studio 2015 - Kopya\Projects\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Burak\Documents\Visual Studio 2015 - Kopya\Projects\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Login.resources
+C:\Users\Burak\Documents\Visual Studio 2015 - Kopya\Projects\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Musteri.resources
+C:\Users\Burak\Documents\Visual Studio 2015 - Kopya\Projects\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Properties.Resources.resources
+C:\Users\Burak\Documents\Visual Studio 2015 - Kopya\Projects\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.UyeOl.resources
+C:\Users\Burak\Documents\Visual Studio 2015 - Kopya\Projects\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Yonetici.resources
+C:\Users\Burak\Documents\Visual Studio 2015 - Kopya\Projects\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.GenerateResource.Cache
